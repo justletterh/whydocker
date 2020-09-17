@@ -1,12 +1,16 @@
 # no readme, im tired
-gn
+
+# nvm, fuck it
+# here
 
 # TODO:
 - [x] make the repo
 - [x] copy files
 - [ ] set up the docker dir
 - [ ] finish the repo
+#### <b>yes this is <u>W.I.P. </u>
+#### so <u>please,</u> ~~leave me alone~~
 
-<h3><b><u>yes this is W.I.P. </u></b></h3>
 
-### <u>please</u>, ~~leave me alone~~
+
+###### <sup>(gn)</sup>
